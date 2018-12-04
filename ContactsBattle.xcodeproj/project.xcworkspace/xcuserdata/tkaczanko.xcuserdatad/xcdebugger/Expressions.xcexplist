@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ContactsBattle.StartBattleViewController.turnTaken (ContactsBattle.StartBattleViewController)(Swift.String, level : Swift.String) -&gt; ():StartBattleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "whoTurnItIs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ContactsBattle.BattleViewController.getContactNames (ContactsBattle.BattleViewController)() -&gt; ():BattleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "adbk">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
